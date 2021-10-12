@@ -1,0 +1,31 @@
+
+mystr = "Harry is a good boy"
+mystr2 = "harry is a good boy"
+mystr1 = "harryisagoodboy"
+mystr3 = "HARRY IS A GOOD BOY"
+print(mystr)
+print(len(mystr))
+print(mystr[4])
+print(mystr[0:5])
+print(mystr[:5])
+print(mystr[0:5:2])
+print(mystr[0:19])
+print(mystr[0:])
+print(mystr[0:19:3])
+print(mystr[::])
+print(mystr[::-1])
+print(mystr[::-2])
+print(mystr[-1:-4:-2])
+#print(mystr.isalnum())
+#print(mystr1.isalnum())
+#print(mystr.isalpha())
+#print(mystr.count("o"))
+#print(mystr1.isalpha())
+#print(mystr.endswith("boy"))
+#print(mystr.startswith("Harry"))
+#print(mystr2.capitalize())
+#print(mystr1.isalpha())
+#print(mystr.find("is"))
+#print(mystr.upper())
+#print(mystr.lower())
+#print(mystr.replace("is", "are"))
